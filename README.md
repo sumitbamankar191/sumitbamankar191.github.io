@@ -40,10 +40,6 @@ Open the project:
 Simply open index.html in any modern browser.
 SCSS Compiling:
 This project uses Prepros or Sass to watch the /scss folder and compile it into /css.
-📸 Screenshots
-Hero Section	Skills & Progress
-![alt text](images/s1.png)
-![alt text](images/s2.png)
 🤝 Let's Connect
 I am always open to collaborating on creative projects or technical discussions.
 LinkedIn: https://www.linkedin.com/in/sumit-bamankar/
